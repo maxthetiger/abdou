@@ -6,6 +6,7 @@ Guide de parapente au Maroc
 À faire
 -----
 
+
 OK/ G* Ajouter une meta keywords
 C* Déplacer le code Google Analytics dans le bas du fichier
 OK / G* Enlever les gros blocs de commentaires
@@ -16,4 +17,3 @@ OK/ G* Mettre le js dans un fichier externe
 * En JS, Ajouter 2 boutons permettant de modifier (plus petit ou plus grand) la taille du texte
 C* En PHP, rendre la date du footer dynamique
 OK/ G* Ajouter une page contact
-

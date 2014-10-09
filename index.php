@@ -9,7 +9,9 @@
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
 	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
 	
+
 	<script type="text/javascript" href="js/script.js"></script>
+
 </head>
 
 <body>
@@ -32,7 +34,7 @@
               
                 <p>A juste 2h d'avion d'Europe, <b>le Maroc</b> est un paradis pour parapentistes, une invitation au voyage et aux rencontres.</p>
 
-				<p>Je vous propose de (re?)découvrir mon pays en pratiquant <b>le parapente</b>. Je suis moi même pilote, et, depuis plus de dix ans, j'organise des séjours et j'accompagne des groupes de parapentistes à travers le Maroc, avec <a href="http://www.lesgensdair.com/maroc.htm" title="Voyage de parapente au Maroc" target="_blank">Les Gens d'Air et Vincent Brisard</a>.</p>
+                <p>Je vous propose de (re?)découvrir mon pays en pratiquant <b>le parapente</b>. Je suis moi même pilote, et, depuis plus de dix ans, j'organise des séjours et j'accompagne des groupes de parapentistes à travers le Maroc, avec <a href="http://www.lesgensdair.com/maroc.htm" title="Voyage de parapente au Maroc" target="_blank">Les Gens d'Air et Vincent Brisard</a>.</p>
 
                <p>Le Maroc est un pays idéal pour le parapentiste à la recherche de dépaysement et d'authenticité.</p>
                 
@@ -53,7 +55,7 @@
                     
                      <p><b>Bon à savoir :</b> Mes tarifs sont en fonction du nombre de participants ainsi que des prestations souhaitées. Je suis flexible et à votre disposition pour organiser des séjours sur mesure.</p>
                      
-                     <p>Si vous avez des projets de vol au Maroc ou simplement des questions, n'hésitez pas à <a href="mailto:derbaniwaga@hotmail.com" target="_blank">me contacter</a>.</p>
+                     <p>Si vous avez des projets de vol au Maroc ou simplement des questions, n'hésitez pas à <a href="contact.php">me contacter</a>.</p>
                     
                    
             </div>
@@ -70,28 +72,34 @@
                 Je me charge de l'intendance de votre séjour : transport, hôtels et gites, repas. Je vous servirai de guide et d'interprète
                 et je vous trouverai les meilleurs endroits pour que vous puissiez assouvir votre passion.<br />
                 <span class="tagline">Vous ne faites que gonfler, voler, manger, rire, dormir. Le reste, je m'en occupe...</span><br /><br />
-                <table><tr>
-                    <td class="transport"></td>
-                    <td class="tddesc">
-                        <h3>Transport</h3>
-                        Transfert de et vers l'aéroport, navettes entre l'attéro et le déco, courses locales avant le départ...</td>
-                    <td class="hebergement"></td>
-                    <td class="tddesc">
-                        <h3>Hébergement</h3>
-                        Réservations d'hôtels et d'auberges confortables, directement sur le déco lorsque possible.
-                    </td>
-                </tr><tr>
-                    <td class="repas"></td>
-                    <td class="tddesc">
-                        <h3>Repas</h3>
-                        Réservation dans des restaurants typiques, préparation des déjeuners directement sur le site, au besoin.
-                    </td>
-                    <td class="guide"></td>
-                    <td class="tddesc">
-                        <h3>Guide</h3>
-                        Proposition de circuits en fonction de l'aérologie, visites locales, renseignements culturels.
-                    </td>
-                </tr></table>
+                <div id="serLeft">
+                    <div class="transport">
+                        <div class="display">
+                           <h3>Transport</h3>
+                            <p>Transfert de et vers l'aéroport, navettes entre l'attéro et le déco, courses locales avant le départ...</p>
+                        </div>
+                    </div>
+                    <div class="repas">
+                        <div class="display">
+                            <h3>Repas</h3>
+                            <p>Réservation dans des restaurants typiques, préparation des déjeuners directement sur le site, au besoin.</p>
+                        </div>
+                    </div>
+                </div>
+                <div id="serRight">
+                    <div class="hebergement">
+                        <div class="display">
+                            <h3>Hébergement</h3>
+                            <p>Réservations d'hôtels et d'auberges confortables, directement sur le déco lorsque possible.</p>
+                        </div>
+                    </div>
+                    <div class="guide">
+                        <div class="display">
+                            <h3>Guide</h3>
+                            <p>Proposition de circuits en fonction de l'aérologie, visites locales, renseignements culturels.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
             
             <br />
@@ -102,30 +110,32 @@
                 <a href=""><img src="img/aplus.png" height="20" width="20"></a>
                 </h2>
                 
-                             
-               2 circuits sont plus souvent pratiqués, car ils offrent une grande variété de sites intéressants. Cependant, je suis à votre disposition pour vous proposer d'autres destinations selon vos souhaits. Et, en cours de séjour, si la météo nous y oblige, nous pourrons bien sur modifier le parcours pour aller là où ça vole !<br /><br />
-                <table><tr>
-                    <td class="agadir"></td>
-                    <td class="tddesc">
+
+                <p>2 circuits sont plus souvent pratiqués, car ils offrent une grande variété de sites intéressants. Cependant, je suis à votre disposition pour vous proposer d'autres destinations selon vos souhaits. Et, en cours de séjour, si la météo nous y oblige, nous pourrons bien sur modifier le parcours pour aller là où ça vole !</p>
+
+                <div class="agadir">
+                    <div class="display">
                         <h3>Agadir</h3>
-                        Transferts aéroport d'Agadir, vols littoral principalement, auberges pieds-dans-l'eau, jusqu'à 300m de dénivelé...
-                    <td class="marrakech"></td>
-                    <td class="tddesc">
+                        <p>Transferts aéroport d'Agadir, vols littoral principalement, auberges pieds-dans-l'eau, jusqu'à 300m de dénivelé...</p>
+                    </div>
+                </div>
+                <div class="marrakech">
+                    <div class="display">
                         <h3>Marrakech</h3>
-                        Transferts aéroport de Marrakech, vols en montagne, vue sur les sommets de l'Atlas, longs vols thermiques...
-                    </td>
-                </tr></table>
-                
-                <br />
-                <ul>
-                    <li>Disponible de septembre à janvier (de février à mai, contactez <a href="http://www.lesgensdair.com/maroc.htm" title="Voyage de parapente au Maroc" target="_blank">Les Gens d'Air</a>).</li>
-                    <li>Pour voler avec moi, vous devez être un pilote breveté.</li>
-                    <li>Avant le départ, vous devez impérativement avoir rempli les conditions d'autorisation de vol au Maroc.</li>
-                </ul>
+                        <p>Transferts aéroport de Marrakech, vols en montagne, vue sur les sommets de l'Atlas, longs vols thermiques...</p>
+                    </div>
+                </div>
+                <div class="check">
+                    <ul>
+                        <li>Disponible de septembre à janvier (de février à mai, contactez  <a href="http://www.lesgensdair.com/maroc.htm" title="Voyage de parapente au Maroc" target="_blank">Les Gens d'Air</a>).</li>
+                        
+                        <li>Pour voler avec moi, vous devez être un pilote breveté.</li>
+                        
+                        <li>Avant le départ, vous devez impérativement avoir rempli les conditions d'autorisation de vol au Maroc.</li>
+                    </ul>
+                </div>
             </div>
-        
-        </div>
-    
+          
        
     </div>
     
@@ -159,7 +169,7 @@
 
     <div class="clear"></div><br />
     
-    <div id="subfooter">&copy;Abderrahim Derbani 2012 | site par <a href="http://www.webolic.com" target="_blank">Webolic</a></div>
+    <div id="subfooter">&copy;Abderrahim Derbani <?php echo date("Y");?> | site par <a href="http://www.webolic.com" target="_blank">Webolic</a></div>
     
     </div>
     
@@ -171,18 +181,17 @@
 <script type="text/javascript" src="fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
 <script type="text/javascript" src="fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <script type="text/javascript">
-$("a[rel=shadowbox]").fancybox({
-				'cyclic' : 	true,
-				//'autoScale' : 	true,
-				'centerOnScroll ' :	true,
-				'overlayOpacity' : 	0.8,
-				'overlayColor' : '#000',
-				'titleShow' : 	false,
-				'transitionIn'	: 'fade',
-				'transitionOut'	: 'fade'
-			});
-</script>
 
-		
+$("a[rel=shadowbox]").fancybox({
+                'cyclic' :  true,
+                //'autoScale' :     true,
+                'centerOnScroll ' : true,
+                'overlayOpacity' :  0.8,
+                'overlayColor' : '#000',
+                'titleShow' :   false,
+                'transitionIn'  : 'fade',
+                'transitionOut' : 'fade'
+            });
+</script>
 </body>
 </html>
