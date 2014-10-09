@@ -81,10 +81,7 @@
     <div id="content">
     
         <div id="contact">
-            <h2>Me contacter
-            <a href=""><img src="img/amoins.png" height="20" width="20"></a>
-                <a href=""><img src="img/aplus.png" height="20" width="20"></a>
-                </h2> 
+            <h2>Me contacter</h2> 
 
                 <form method="POST">
                     <input type="text" name="nom" placeholder="Votre nom">
