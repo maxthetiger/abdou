@@ -191,6 +191,7 @@ a {
 	font-size:35px;
 }
 
+
 h2{
 	font-size:26px;
 	font-weight:normal;
@@ -273,3 +274,49 @@ li {
 background:url(img/tick.png) no-repeat left;
 padding-left:20px;
 }
+
+
+
+/********************** PAGE DE CONTACT
+**********************/
+
+#contact h2{
+	text-align: center;
+}
+
+#contact form {
+	width: 100%;
+}
+
+
+#contact form input[type="text"],
+#contact form input[type="email"],
+#contact form textarea{
+	display: block;
+	margin: 20px 0;
+	width: 100%;
+	height: 35px;
+	background: none;
+	border:0;
+	border:1px dashed #000;
+}
+
+#contact form textarea{
+	height: 150px;
+}
+
+#contact form input[type="submit"]{
+	margin: auto;
+	width: 150px;
+	height: 35px;
+}
+
+::-webkit-input-placeholder { text-align: center;}
+::-moz-placeholder { text-align: center;} 
+:-ms-input-placeholder { text-align: center;} 
+input:-moz-placeholder { text-align: center;}
+
+#contact form textarea::-webkit-input-placeholder { position: relative; top: 70px;}
+#contact form textarea::-moz-placeholder { position: relative; top: 70px;} 
+#contact form textarea:-ms-input-placeholder { position: relative; top: 70px;} 
+#contact form textarea:-moz-placeholder { position: relative; top: 70px;}
