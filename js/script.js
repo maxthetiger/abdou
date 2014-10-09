@@ -6,3 +6,11 @@
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
+
+
+$("h2").on('click','a', function()
+{
+	var index = $(this).index;
+	console.log(index)
+	var parent = $(this).parent;
+})

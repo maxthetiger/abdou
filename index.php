@@ -7,4 +7,3 @@
     include ("inc/footer.php");
     include ("inc/bottom.php");
 ?>
-        

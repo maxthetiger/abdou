@@ -1,6 +1,9 @@
 <div id="right">
     <div id="services">
-        <h2>Services</h2>
+        <h2 class="fontsize">Services
+                    <a href="" id="aMs"><img src="img/amoins.png" height="20" width="20"></a>
+                    <a href="" id="aPs"><img src="img/aplus.png" height="20" width="20"></a>
+                </h2>
         Je me charge de l'intendance de votre séjour : transport, hôtels et gites, repas. Je vous servirai de guide et d'interprète
         et je vous trouverai les meilleurs endroits pour que vous puissiez assouvir votre passion.<br />
         <span class="tagline">Vous ne faites que gonfler, voler, manger, rire, dormir. Le reste, je m'en occupe...</span><br /><br />

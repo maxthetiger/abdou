@@ -198,6 +198,12 @@ h2{
 	border-bottom:dashed 1px #000;
 	line-height:35px;
 	margin:15px 0px;
+	position: relative;
+}
+h2 a{
+	float: right;
+	margin-left: 5px;
+
 }
 
 h3 {

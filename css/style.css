@@ -162,13 +162,18 @@ a {
 	text-align: left;
 }
 
-h2
-{
+h2{
 	font-size:26px;
 	font-weight:normal;
 	border-bottom:dashed 1px #000;
 	line-height:35px;
-	margin:15px 0px;
+	margin: 22px 0px;
+	position: relative;
+}
+h2 a{
+	float: right;
+	margin-left: 5px;
+
 }
 
 h3
