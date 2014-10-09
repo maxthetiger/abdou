@@ -212,47 +212,156 @@ h3 {
 	clear:both;
 }
 
-.tagline {
-	/*font-size:16px;
-	color:#0093D6;*/
-}
+
 
 .tddesc {
 	font-style:italic;
-	color:#666;
-	font-size:11px;
+
 }
 
-td.transport, td.hebergement, td.repas, td.guide, td.agadir, td.marrakech {
+
+
+
+
+
+
+
+
+
+
+
+			/********************
+			*					*
+			*		HTML		*
+			*					*
+			********************/
+
+
+			/********************
+			*					*
+			*		HEADER		*
+			*					*
+			********************/
+
+
+			/********************
+			*					*
+			*		POST IT		*
+			*					*
+			********************/
+
+
+			/********************
+			*					*
+			*	  	IMAGES		*
+			*					*
+			********************/
+
+#services div.transport,
+#services div.hebergement,
+#services div.repas,
+#services div.guide,
+#circuits div.agadir,
+#circuits div.marrakech
+{
 	width:70px;
 	height:70px;
 	background-image:url(img/icons-sprite.png);
 	background-repeat:no-repeat;
 }
 
-td.transport {
+			/********************
+			*					*
+			*	  SERVICES		*
+			*					*
+			********************/
+
+.tagline
+{
+	/*font-size:16px;
+	color:#0093D6;*/
+}
+
+#services #serRight
+{
+	margin-left: 55%;
+	margin-top: -23%;
+}
+
+#services .display
+{
+	margin-left: 75px;
+	margin-bottom: 5px;
+	width: 240px;
+}
+
+#services .display p
+{
+	font-style: italic;
+	font-size:11px;
+	color:#666;
+	margin-top: 3px;
+}
+
+#services div .transport
+{
 	background-position:0 0;
 }
 
-td.hebergement {
+#services div .hebergement
+{
 	background-position:0 -78px;
 }
 
-td.repas {
+#services div .repas
+{
 	background-position:0 -162px;
 }
 
-td.guide {
+#services div .guide
+{
 	background-position:0 -248px;
 }
 
-td.agadir {
+
+
+			/********************
+			*					*
+			*	   CIRCUITS		*
+			*					*
+			********************/
+#circuits .display
+{
+	margin-left: 75px;
+	margin-bottom: 5px;
+	width: 240px;
+}
+
+#circuits .display p
+{
+	font-style: italic;
+	font-size:11px;
+	color:#666;
+	margin-top: 3px;
+}
+
+#circuits div .agadir
+{
 	background-position:0 -330px;
 }
 
-td.marrakech {
+#circuits .marrakech
+{
 	background-position:0 -410px;
+	margin-left: 50%;
+	margin-top: -11%;
 }
+
+			/********************
+			*					*
+			*		FOOTER		*
+			*					*
+			********************/
 
 img.pics {
 	width:80px;
