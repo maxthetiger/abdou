@@ -44,10 +44,7 @@
             
             
              <div id="contact">
-                <h2>Contact
-                <a href=""><img src="img/amoins.png" height="20" width="20"></a>
-                <a href=""><img src="img/aplus.png" height="20" width="20"></a>
-                </h2>
+                <h2 class="fontsize">Contact</h2>
                 <h3>Abderrahim Derbani</h3>
                     Tel : +212 (0)6 64 38 94 27<br /> 
                     Fax : +212 (0)6 22 99 41 21<br />
@@ -65,9 +62,9 @@
         <div id="right">
         
             <div id="services">
-                <h2>Services
-                <a href=""><img src="img/amoins.png" height="20" width="20"></a>
-                <a href=""><img src="img/aplus.png" height="20" width="20"></a>
+                <h2 class="fontsize">Services
+                    <a href=""><img src="img/amoins.png" height="20" width="20"></a>
+                    <a href=""><img src="img/aplus.png" height="20" width="20"></a>
                 </h2>
                 Je me charge de l'intendance de votre séjour : transport, hôtels et gites, repas. Je vous servirai de guide et d'interprète
                 et je vous trouverai les meilleurs endroits pour que vous puissiez assouvir votre passion.<br />
@@ -105,10 +102,7 @@
             <br />
             
             <div id="services">
-                <h2>Circuits
-                <a href=""><img src="img/amoins.png" height="20" width="20"></a>
-                <a href=""><img src="img/aplus.png" height="20" width="20"></a>
-                </h2>
+                <h2 class="fontsize">Circuits</h2>
                 
 
                 <p>2 circuits sont plus souvent pratiqués, car ils offrent une grande variété de sites intéressants. Cependant, je suis à votre disposition pour vous proposer d'autres destinations selon vos souhaits. Et, en cours de séjour, si la météo nous y oblige, nous pourrons bien sur modifier le parcours pour aller là où ça vole !</p>

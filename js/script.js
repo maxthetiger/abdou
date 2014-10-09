@@ -8,3 +8,9 @@
 	  })();
 
 
+$("h2").on('click','a', function()
+{
+	var index = $(this).index;
+	console.log(index)
+	var parent = $(this).parent;
+})
