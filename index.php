@@ -4,34 +4,34 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Guide de parapente au Maroc | Abderahim Derbani</title>
 <meta name="Description" content="Abderrahim Derbani, guide de parapente au Maroc, sur les circuits d'Agadir et de Marrakech." />
-
+<meta name="keywords" content="parapente, Maroc, Guide, Vacance, Abdou">
 		
 	<link rel="stylesheet" href="style.css" type="text/css" media="screen" />
 	<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
 	
+
+	<script type="text/javascript" href="js/script.js"></script>
+
 </head>
 
 <body>
 
-    <div id="container">
-    
-    <div id="header">
-        <div id="bijour">
-            <span class="font85">Bijour</span><span class="font29">. Je suis <strong>Abderrahim Derbani</strong></span><br/>
-            <span class="font23"> &nbsp;et je suis <strong><span class="font35">guide</span></strong> pour <strong><span class="font35">parapentistes</span></strong> au <strong><span class="font35">Maroc</span></strong></span>
+	<div id="container">
+    <a href="index.php">
+        <div id="header">
+            <div id="bijour">
+                <span class="font85">Bijour</span><span class="font29">. Je suis <strong>Abderrahim Derbani</strong></span><br/>
+                <span class="font23"> &nbsp;et je suis <strong><span class="font35">guide</span></strong> pour <strong><span class="font35">parapentistes</span></strong> au <strong><span class="font35">Maroc</span></strong></span>
+            </div>
         </div>
-    </div>
+    </a>
     
     <div id="content">
     
         <div id="left">
         
              <div id="postit">
-                 <!--<p>Depuis plus de 10 ans, j'organise des <strong>séjours de parapente sur mesure au Maroc</strong>, avec <a href="http://www.lesgensdair.com/maroc.htm" title="Voyage de parapente au Maroc" target="_blank">Les Gens d'Air et Vincent Brisard</a>. Mes clients me laisse penser qu'ils sont satisfaits, du moins si j'en juge d'après le montant des pourboires ; )</p>
-                <p>En transformant votre séjour au Maroc en un pur plaisir (inch'allah), mon objectif premier est de vous voir revenir parapenter ici, année après année...</p>                
-                <p>Amis parapentistes : bienvenue chez nous.</p>-->
-                
-                
+              
                 <p>A juste 2h d'avion d'Europe, <b>le Maroc</b> est un paradis pour parapentistes, une invitation au voyage et aux rencontres.</p>
 
                 <p>Je vous propose de (re?)découvrir mon pays en pratiquant <b>le parapente</b>. Je suis moi même pilote, et, depuis plus de dix ans, j'organise des séjours et j'accompagne des groupes de parapentistes à travers le Maroc, avec <a href="http://www.lesgensdair.com/maroc.htm" title="Voyage de parapente au Maroc" target="_blank">Les Gens d'Air et Vincent Brisard</a>.</p>
@@ -54,8 +54,7 @@
                      
                      <p>Si vous avez des projets de vol au Maroc ou simplement des questions, n'hésitez pas à <a href="contact.php">me contacter</a>.</p>
                     
-                    <!--<p><b>Bon à savoir :</b> plus vous êtes nombreux à vous inscrire, plus mes prix sont interressants!<br /><br />
-                    Pour connaître mes tarifs, <a href="mailto:derbaniwaga@hotmail.com" target="_blank">contactez-moi</a>.</p>-->
+                   
             </div>
         
         </div>
@@ -155,37 +154,8 @@
     <a rel="shadowbox" href="img/pic/abdou-parapente-maroc-43.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-43.jpg" class="pics"></a>
     <a rel="shadowbox" href="img/pic/abdou-parapente-maroc-1.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-1.jpg" class="pics"></a>
     <a rel="shadowbox" href="img/pic/abdou-parapente-maroc-46.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-46.jpg" class="pics"></a>
-    
-    <!--
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-2.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-2.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-4.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-4.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-7.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-7.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-8.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-8.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-9.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-9.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-13.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-13.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-14.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-14.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-15.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-15.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-16.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-16.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-17.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-17.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-18.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-18.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-19.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-19.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-20.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-20.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-21.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-21.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-25.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-25.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-27.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-27.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-28.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-28.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-29.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-29.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-33.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-33.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-34.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-34.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-35.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-35.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-37.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-37.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-38.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-38.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-39.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-39.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-40.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-40.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-42.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-42.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-44.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-44.jpg" class="pics"></a>
-    <a rel="shadowbox[abdou]" href="img/pic/abdou-parapente-maroc-45.jpg"><img src="img/pic/thumbs/abdou-parapente-maroc-45.jpg" class="pics"></a>-->
-        
+ 
+
     <div class="clear"></div><br />
     
     <div id="subfooter">&copy;Abderrahim Derbani <?php echo date("Y");?> | site par <a href="http://www.webolic.com" target="_blank">Webolic</a></div>
@@ -194,9 +164,7 @@
     
 </div>
 
-
-<script src="//code.jquery.com/jquery-1.8.3.min.js"></script>
-
+<script type="text/javascript"  src="http://code.jquery.com/jquery-1.8.3.min.js"></script>
     
 <link rel="stylesheet" type="text/css" href="fancybox/jquery.fancybox-1.3.4.css" media="screen" />
 <script type="text/javascript" src="fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
@@ -214,21 +182,5 @@ $("a[rel=shadowbox]").fancybox({
                 'transitionOut' : 'fade'
             });
 </script>
-
-    
-    
-<!--<link rel="stylesheet" type="text/css" href="shadowbox-3.0.3/shadowbox.css">
-<script type="text/javascript" src="shadowbox-3.0.3/shadowbox.js"></script>
-<script type="text/javascript">
-Shadowbox.init({
-    handleOversize: "drag",
-    continuous : true,
-    counterType : "skip",
-    counterLimit : 18,
-    overlayOpacity : 0.8
-});
-</script>-->
-
-        
 </body>
 </html>
