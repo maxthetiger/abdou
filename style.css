@@ -198,6 +198,16 @@ h2{
 	border-bottom:dashed 1px #000;
 	line-height:35px;
 	margin:15px 0px;
+	position: relative;
+	/* background-image: url(img/amoins.png);
+	background-size: 20px 20px;
+	background-repeat: no-repeat;
+	background-position: right; */
+}
+h2 a{
+	float: right;
+	margin-left: 5px;
+
 }
 
 h3 {
